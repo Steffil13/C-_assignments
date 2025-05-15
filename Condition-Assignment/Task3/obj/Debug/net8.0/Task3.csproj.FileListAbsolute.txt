@@ -1,0 +1,14 @@
+I:\Projects\New folder\Condition-Assignment\Task3\bin\Debug\net8.0\Task3.exe
+I:\Projects\New folder\Condition-Assignment\Task3\bin\Debug\net8.0\Task3.deps.json
+I:\Projects\New folder\Condition-Assignment\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+I:\Projects\New folder\Condition-Assignment\Task3\bin\Debug\net8.0\Task3.dll
+I:\Projects\New folder\Condition-Assignment\Task3\bin\Debug\net8.0\Task3.pdb
+I:\Projects\New folder\Condition-Assignment\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\New folder\Condition-Assignment\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+I:\Projects\New folder\Condition-Assignment\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+I:\Projects\New folder\Condition-Assignment\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+I:\Projects\New folder\Condition-Assignment\Task3\obj\Debug\net8.0\Task3.dll
+I:\Projects\New folder\Condition-Assignment\Task3\obj\Debug\net8.0\refint\Task3.dll
+I:\Projects\New folder\Condition-Assignment\Task3\obj\Debug\net8.0\Task3.pdb
+I:\Projects\New folder\Condition-Assignment\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+I:\Projects\New folder\Condition-Assignment\Task3\obj\Debug\net8.0\ref\Task3.dll
