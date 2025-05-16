@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Projects\\New folder\\Looping-Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14ACD116-4BD8-4DDA-B832-00E143B8D557}|task7\\task7.csproj|i:\\projects\\new folder\\looping-task\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14ACD116-4BD8-4DDA-B832-00E143B8D557}|task7\\task7.csproj|solutionrelative:task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10015E37-138C-4E6A-91A0-8C9AA2854380}|task1\\task1.csproj|i:\\projects\\new folder\\looping-task\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10015E37-138C-4E6A-91A0-8C9AA2854380}|task1\\task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA555F7-CBD4-4391-820D-55D4BA6D544F}|task8\\task8.csproj|i:\\projects\\new folder\\looping-task\\task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA555F7-CBD4-4391-820D-55D4BA6D544F}|task8\\task8.csproj|solutionrelative:task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E1E2B4-792E-405A-B05F-37524941E850}|task6\\task6.csproj|i:\\projects\\new folder\\looping-task\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E1E2B4-792E-405A-B05F-37524941E850}|task6\\task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1922A7-630A-4607-94A8-3EFBC5F39753}|task5\\task5.csproj|i:\\projects\\new folder\\looping-task\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1922A7-630A-4607-94A8-3EFBC5F39753}|task5\\task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F887CF4B-EE17-4063-A01F-4403BEF2683A}|task4\\task4.csproj|i:\\projects\\new folder\\looping-task\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F887CF4B-EE17-4063-A01F-4403BEF2683A}|task4\\task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFA11D4-3B04-4168-BE56-DB4A09500AB8}|task3\\task3.csproj|i:\\projects\\new folder\\looping-task\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFA11D4-3B04-4168-BE56-DB4A09500AB8}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8BF841-80F4-4C3B-8ACD-884E67601474}|task2\\task2.csproj|i:\\projects\\new folder\\looping-task\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8BF841-80F4-4C3B-8ACD-884E67601474}|task2\\task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Projects\\New folder\\Looping-Task\\task8\\Program.cs",
+              "RelativeDocumentMoniker": "task8\\Program.cs",
+              "ToolTip": "I:\\Projects\\New folder\\Looping-Task\\task8\\Program.cs",
+              "RelativeToolTip": "task8\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:41:41.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Projects\\New folder\\Looping-Task\\task7\\Program.cs",
+              "RelativeDocumentMoniker": "task7\\Program.cs",
+              "ToolTip": "I:\\Projects\\New folder\\Looping-Task\\task7\\Program.cs*",
+              "RelativeToolTip": "task7\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:41:29.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Projects\\New folder\\Looping-Task\\task6\\Program.cs",
+              "RelativeDocumentMoniker": "task6\\Program.cs",
+              "ToolTip": "I:\\Projects\\New folder\\Looping-Task\\task6\\Program.cs",
+              "RelativeToolTip": "task6\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:41:17.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Projects\\New folder\\Looping-Task\\task5\\Program.cs",
+              "RelativeDocumentMoniker": "task5\\Program.cs",
+              "ToolTip": "I:\\Projects\\New folder\\Looping-Task\\task5\\Program.cs",
+              "RelativeToolTip": "task5\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:41:03.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Projects\\New folder\\Looping-Task\\task4\\Program.cs",
+              "RelativeDocumentMoniker": "task4\\Program.cs",
+              "ToolTip": "I:\\Projects\\New folder\\Looping-Task\\task4\\Program.cs",
+              "RelativeToolTip": "task4\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:39:06.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Projects\\New folder\\Looping-Task\\task3\\Program.cs",
+              "RelativeDocumentMoniker": "task3\\Program.cs",
+              "ToolTip": "I:\\Projects\\New folder\\Looping-Task\\task3\\Program.cs",
+              "RelativeToolTip": "task3\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:37:33.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Projects\\New folder\\Looping-Task\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "task2\\Program.cs",
+              "ToolTip": "I:\\Projects\\New folder\\Looping-Task\\task2\\Program.cs",
+              "RelativeToolTip": "task2\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:27:44.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Projects\\New folder\\Looping-Task\\task1\\Program.cs",
+              "RelativeDocumentMoniker": "task1\\Program.cs",
+              "ToolTip": "I:\\Projects\\New folder\\Looping-Task\\task1\\Program.cs",
+              "RelativeToolTip": "task1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:40:13.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+I:\Projects\New folder\Looping-Task\task7\obj\Debug\net8.0\task7.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\New folder\Looping-Task\task7\obj\Debug\net8.0\task7.AssemblyInfoInputs.cache
+I:\Projects\New folder\Looping-Task\task7\obj\Debug\net8.0\task7.AssemblyInfo.cs
+I:\Projects\New folder\Looping-Task\task7\obj\Debug\net8.0\task7.csproj.CoreCompileInputs.cache
+I:\Projects\New folder\Looping-Task\task7\bin\Debug\net8.0\task7.exe
+I:\Projects\New folder\Looping-Task\task7\bin\Debug\net8.0\task7.deps.json
+I:\Projects\New folder\Looping-Task\task7\bin\Debug\net8.0\task7.runtimeconfig.json
+I:\Projects\New folder\Looping-Task\task7\bin\Debug\net8.0\task7.dll
+I:\Projects\New folder\Looping-Task\task7\bin\Debug\net8.0\task7.pdb
+I:\Projects\New folder\Looping-Task\task7\obj\Debug\net8.0\task7.dll
+I:\Projects\New folder\Looping-Task\task7\obj\Debug\net8.0\refint\task7.dll
+I:\Projects\New folder\Looping-Task\task7\obj\Debug\net8.0\task7.pdb
+I:\Projects\New folder\Looping-Task\task7\obj\Debug\net8.0\task7.genruntimeconfig.cache
+I:\Projects\New folder\Looping-Task\task7\obj\Debug\net8.0\ref\task7.dll
